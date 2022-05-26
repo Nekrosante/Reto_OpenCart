@@ -7,7 +7,7 @@ El conjunto de pruebas presentado en este repositorio tiene como finalidad valid
 - IntelliJ IDEA 2021.3.2 (Community Edition)
 - Gradle 7.4.1
 - Java 1.8.0
-- Google Chrome Versión 101.0.4951.67 (Build oficial) (64 bits)
+- Google Chrome Versión 102.0.5005.63(Build oficial) (64 bits)
 
 ### Autor
 Luis Miguel Arcia Moreno
