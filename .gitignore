@@ -1,7 +1,6 @@
 .idea
 .gradle
 target
-serenity.properties
 gradle
 out
 HELP.md
