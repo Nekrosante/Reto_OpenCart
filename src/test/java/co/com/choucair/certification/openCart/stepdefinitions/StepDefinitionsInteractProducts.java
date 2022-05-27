@@ -17,7 +17,7 @@ public class StepDefinitionsInteractProducts {
     @Before
     public void setStage() { OnStage.setTheStage(new OnlineCast());}
 
-    @Given("I am logged in as a DEMO user on the OpenCart Page")
+    @Given("I as a DEMO user, am logged in on the OpenCart Page")
     public void accessToTheOpenCartPage() {
         OnStage.theActorCalled("DemoUser").wasAbleTo(
                 OpenUp.thePage(),
