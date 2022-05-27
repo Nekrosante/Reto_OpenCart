@@ -1,7 +1,7 @@
 # Reto OpenCart
 
-## Descripcion
-El conjunto de pruebas presentado en este repositorio tiene como finalidad validar la funcionalidad de la pagina [OpenCart](https://demo.opencart.com/admin/index.php?route=common/login), en concreto las funciones de Agregar, Editar y Filtrar productos usando el usuario de acceso restringido DEMO.
+## Descripción
+El conjunto de pruebas presentado en este repositorio tiene como finalidad validar la funcionalidad de la página [OpenCart](https://demo.opencart.com/admin/index.php?route=common/login), en concreto las funciones de Agregar, Editar y Filtrar productos usando el usuario de acceso restringido DEMO.
 
 ## Recursos
 - IntelliJ IDEA 2021.3.2 (Community Edition)
