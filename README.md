@@ -10,5 +10,5 @@ El conjunto de pruebas presentado en este repositorio tiene como finalidad valid
 - Google Chrome Versión 102.0.5005.63(Build oficial) (64 bits)
 
 ### Autor
-Luis Miguel Arcia Moreno
+*Luis Miguel Arcia Moreno*
 
